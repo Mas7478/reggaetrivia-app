@@ -59,8 +59,7 @@ reggaetrivia-app/
 │   └── main.dart
 │
 ├── pubspec.yaml
-├── analysis_options.yaml
-└── README.md
+└── analysis_options.yaml
 ```
 
 ---
