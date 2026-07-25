@@ -84,7 +84,7 @@ reggaetrivia-app/
 
    Buka `lib/services/api_service.dart`, lalu sesuaikan base URL dengan alamat backend yang sudah di-deploy (lihat [Backend API](#-backend-api)):
    ```dart
-   const String baseUrl = "https://your-backend-url/api";
+   const String baseUrl = "https://reggaetrivia.wasmer.app/api";
    ```
 
 4. **Jalankan aplikasi**
@@ -102,9 +102,7 @@ reggaetrivia-app/
 
 ## 📱 Screenshot
 
-<img width="250" height="508" alt="Home page" src="https://github.com/user-attachments/assets/ef26c429-eeb8-4c7e-97ab-27cf1293bb90" />
-
-
+> <img width="200" alt="Home page" src="https://github.com/user-attachments/assets/ef26c429-eeb8-4c7e-97ab-27cf1293bb90" />
 ---
 
 ## 🔗 Backend API
