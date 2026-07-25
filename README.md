@@ -102,8 +102,7 @@ reggaetrivia-app/
 
 ## 📱 Screenshot
 
-> <img width="200" alt="Home page" src="https://github.com/user-attachments/assets/ef26c429-eeb8-4c7e-97ab-27cf1293bb90" />
----
+<img width="150" alt="Home page" src="https://github.com/user-attachments/assets/ef26c429-eeb8-4c7e-97ab-27cf1293bb90" />
 
 ## 🔗 Backend API
 
